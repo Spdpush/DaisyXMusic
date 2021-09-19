@@ -33,9 +33,9 @@ def _start(client, message):
                         "➕ Add me to your Group 🙋‍♀️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "📲 Updates", url=f"https://t.me/{UPDATES_CHANNEL}"), 
+                        "📲 Updates", url=f"https://t.me/hexamyworld"), 
                     InlineKeyboardButton(
-                        "💬 Support", url=f"https://t.me/{SUPPORT_GROUP}")
+                        "💬 Support", url=f"https://t.me/hexamyworld")
                 ],[
                     InlineKeyboardButton(
                         "🛠 Source Code 🛠", url=f"https://t.me/hexamyworld")
